@@ -1,0 +1,8 @@
+name:
+  BotTelegram
+exec:
+  script:
+    bot.py
+dependencies:
+  - python-telegram-bot==20.1
+  - peewee
